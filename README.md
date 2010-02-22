@@ -11,7 +11,7 @@ Detects over 60 languages; Greek (el), Korean (ko), Japanese (ja), Chinese (zh) 
 
 I recommend using [Pip](http://pip.openplans.org/):
 
-    $ pip install -e git://github.com/dsc/guess-language.git#egg=guess-language
+    $ pip install -e 'git://github.com/dsc/guess-language.git#egg=guess-language'
 
 If you prefer `easy_install`:
 
