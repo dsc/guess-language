@@ -1,1 +1,1 @@
-from guess_language import guessLanguage
+from guess_language import guessLanguage, guessLanguageInfo, guessLanguageName, guessLanguageId
